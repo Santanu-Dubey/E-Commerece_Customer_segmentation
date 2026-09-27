@@ -1,0 +1,4 @@
+Algorithm,Number_of_Clusters,Noise_Outlier_Points,Silhouette_Score,Davies_Bouldin_Index,Calinski_Harabasz_Index
+K-Means (k=5),5,0,0.5276,0.6559,5342.05
+Agglomerative (k=5),5,0,0.5331,0.6317,5203.17
+DBSCAN (Density-Based),4,5,0.5014,0.6822,3680.73

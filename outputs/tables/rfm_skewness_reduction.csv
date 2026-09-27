@@ -1,0 +1,5 @@
+Feature,Raw_Skewness,Log_Skewness,Skew_Reduction_Pct
+Recency,0.687,-0.573,183.4
+Frequency,1.582,0.361,77.2
+Monetary,2.018,-0.034,101.7
+AvgOrderValue,3.132,0.846,73.0
